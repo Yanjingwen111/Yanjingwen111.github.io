@@ -21,7 +21,7 @@ repository               : "https://github.com/Yanjingwen111"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "3953273590_704e3899d5_m.jpg"
+  avatar           : "/images/3953273590_704e3899d5_m.jpg"
   name             : "Jingwen Yan"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student"
