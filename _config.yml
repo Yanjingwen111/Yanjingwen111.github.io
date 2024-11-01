@@ -21,11 +21,11 @@ repository               : "https://github.com/Yanjingwen111"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/3953273590_704e3899d5_m.jpg"
+  avatar           : "images/8191730490913_.pic.jpg"
   name             : "Jingwen Yan"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student"
-  location         : "Clemson, SC"
+  location         : "Clemson, SC, USA"
   employer         : "Clemson University"
   uri              : # URL
   email            : "jingwey@clemson.edu" 
