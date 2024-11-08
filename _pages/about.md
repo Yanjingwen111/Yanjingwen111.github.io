@@ -11,7 +11,7 @@ I am currently a second year Ph.D student in the School of Computing, Clemson Un
 
 Education
 ======
-
+x
 
 Work experience
 ======
