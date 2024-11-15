@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV](Jingwen Yan.pdf)
+Jingwen Yan.pdf
