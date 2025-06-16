@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 * Service
+  * SDIoTSec 2025, San Diego, USA. Poster speaker.
   * IEEE SecDev 2023, Georgia, USA. Poster speaker.
 
 * Awards
