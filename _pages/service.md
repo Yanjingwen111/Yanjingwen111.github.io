@@ -8,14 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
+* Teaching
+  * Teaching Assistant, CPSC4200/6200 Computer Security Principles, Fall 2023, Clemson University.
+    
 * Volunteer
-  * Usenix Sec 2025, Seattle, USA. Volunteer.
+  * Usenix Sec 2025, Seattle, USA.
   
-* Service
-  * Usenix Sec 2025, Seattle, USA. Poster speaker.
-  * SDIoTSec 2025, San Diego, USA. Poster speaker.
-  * TraCR Annual Conference 2024, Greenville. Poster speaker.
-  * IEEE SecDev 2023, Georgia, USA. Poster speaker.
+* Poster Speaker
+  * Usenix Sec 2025, Seattle, USA. 
+  * SDIoTSec 2025, San Diego, USA. 
+  * TraCR Annual Conference 2024, Greenville. 
+  * IEEE SecDev 2023, Georgia, USA. 
 
 * Awards
   * Usenix Student Grant (2025)
