@@ -19,3 +19,8 @@ Work experience
 ======
 * Data engineer, [SHEIN](https://careers.shein.com/). June 2022 – July 2023.
 * Data engineer, [Shopee](https://careers.shopee.sg/). June 2021 – June 2022.
+
+News
+- <span style="color:green;">[Paper]</span> 06/2025: One paper on Google Play App Account Deletion was accepted by <span style="color:red; font-weight:bold;">USENIX Security 2025</span>.
+- <span style="color:green;">[Paper]</span> 09/2024: One paper on Acoustic Privacy Notice for Voice Applications was accepted by <span style="color:red; font-weight:bold;">NDSS 2025</span>.
+- <span style="color:green;">[Paper]</span> 01/2024: One paper on Understanding GDPR Non-Compliance in Privacy Policies of Voice Assistant Applications was accepted by <span style="color:red; font-weight:bold;">WWW 2024</span>.
