@@ -26,8 +26,3 @@ News
 - <span style="color:green;">[Paper]</span> 09/2024: One paper on Acoustic Privacy Notice for Voice Applications was accepted by <span style="color:red; font-weight:bold;">NDSS 2025</span>.
 - <span style="color:green;">[Paper]</span> 01/2024: One paper on Understanding GDPR Non-Compliance in Privacy Policies of Voice Assistant Applications was accepted by <span style="color:red; font-weight:bold;">WWW 2024</span>.
 
-<div style="text-align:center; margin-top: 1rem;">
-<script type="text/javascript" id="mapmyvisitors" 
-        src="//mapmyvisitors.com/map.js?d=VcEo5VjDi9To6lddubGPPwOscPmCzsOj4AdjxidEl40&cl=ffffff&w=a">
-</script>
-</div>
