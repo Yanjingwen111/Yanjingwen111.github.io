@@ -11,7 +11,7 @@ I am currently a second-year Ph.D. student in the School of Computing at Clemson
 
 Education
 ======
-* Ph.D in Computer Science, Clemson University, 2023 - 2028.
+* Ph.D in Computer Science, Clemson University, 2023 - 2028 (expected).
 * M.S. in Information Science, University of Pittsburgh, 2019 - 2021.
 * B.S. in Computing Science, Nanjing University of Posts and Telecommunications, 2015 - 2019.
 
@@ -24,5 +24,4 @@ News
 ======
 - <span style="color:green;">[Paper]</span> 06/2025: One paper on Google Play App Account Deletion was accepted by <span style="color:red; font-weight:bold;">USENIX Security 2025</span>.
 - <span style="color:green;">[Paper]</span> 09/2024: One paper on Acoustic Privacy Notice for Voice Applications was accepted by <span style="color:red; font-weight:bold;">NDSS 2025</span>.
-- <span style="color:green;">[Paper]</span> 01/2024: One paper on Understanding GDPR Non-Compliance in Privacy Policies of Voice Assistant Applications was accepted by <span style="color:red; font-weight:bold;">WWW 2024</span>.
 
