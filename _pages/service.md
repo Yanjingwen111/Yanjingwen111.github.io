@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 * Teaching
-  * Teaching Assistant, CPSC4200/6200 Computer Security Principles, Fall 2023, Clemson University.
+  * Teaching Assistant, CPSCCPSC8570 Network Technologies Security, Spring 2025, Clemson University.
+  * Teaching Assistant, CPSC4200/6200 Computer Security Principles, Fall 2024, Clemson University.
     
 * Volunteer
   * Usenix Sec 2025, Seattle, USA.
@@ -26,3 +27,6 @@ redirect_from:
   * CCS Travel Grant (2024 & 2023)
   * CPS-IoT Travel Grant (2024)
   * SecDev Travel Grant (2023)
+
+* Mentor Experience
+  * Creative Inquiry + Undergraduate Research, Clemson University, 2024 - 202
