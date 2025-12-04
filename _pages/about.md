@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student in the School of Computing at Clemson University, advised by [Prof. Long Cheng](https://people.computing.clemson.edu/~lcheng2/). I earned my M.S. in Information Science from the [University of Pittsburgh](https://www.sci.pitt.edu/) and my B.S. in Computer Science and Technology from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/). Before joining Clemson University, I worked as a Data Engineer at Shein and Shopee for two years. My research interests include IoT security/privacy and data science. Specifically, my work is focused on exploring the security and privacy of Voice Personal Assistants (VPA), such as Amazon Alexa and Google Assistant.
+I am currently a third-year Ph.D. student in the School of Computing at Clemson University, advised by [Prof. Long Cheng](https://people.computing.clemson.edu/~lcheng2/). I earned my M.S. in Information Science from the [University of Pittsburgh](https://www.sci.pitt.edu/) and my B.S. in Computer Science and Technology from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/). Before joining Clemson University, I worked as a Data Engineer at Shein and Shopee for two years. My research interests include IoT security/privacy and data science. Specifically, my work is focused on exploring the security and privacy of Voice Personal Assistants (VPA), such as Amazon Alexa and Google Assistant.
 
 Education
 ======
