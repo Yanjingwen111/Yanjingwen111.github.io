@@ -22,8 +22,6 @@ Work experience
 
 News
 ======
-News
-======
 
 - <span style="color:red;">[Award]</span> 04/2026: I received the <span style="color:red; font-weight:bold;">Outstanding Ph.D. Student in Computer Science Award</span> from Clemson University! Thanks to the School of Computing for this recognition!
 
